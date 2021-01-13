@@ -1,36 +1,48 @@
-# This is a basic workflow to help you get started with Actions
+name: deploy-book
 
-name: CI
-
-# Controls when the action will run. 
+# Only run this when the master branch changes
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches:
+    - master
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  deploy-book:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+    - uses: actions/checkout@v2
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+    # Install dependencies
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install linkify-it-py
+        pip install myst-parser~=0.13
+    # Build the book
+    - name: Build the book
+      run: |
+        jupyter-book build .
+        
+    # Push to server
+    - name: rsync and ssh
+      env:
+        REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+        REMOTE_USER: ${{ secrets.REMOTE_USER }}
+        REMOTE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+        REMOTE_DIR: ${{ secrets.REMOTE_TARGET }}
+        LOCAL_DIR: "_build/html/"
+        COURSE_NAME: "data550"
+      run: |
+        mkdir ~/.ssh
+        echo "$REMOTE_KEY" > ~/.ssh/id_rsa
+        ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
+        chmod 600 ~/.ssh/id_rsa
+        pwd
+        ls -la
+        rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/$COURSE_NAME
