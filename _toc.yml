@@ -1,5 +1,9 @@
 - file: about/syllabus
 
+- part: Syllabus
+  chapters:
+    - file: about/syllabus2
+    
 - part: Lectures
   chapters:
     - file: class/Lecture1
