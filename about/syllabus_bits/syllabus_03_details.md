@@ -1,6 +1,6 @@
 ## About {{ COURSE_CODE }}
 
-### Why should I take this course?
+<!-- ### Why should I take this course?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Ut blandit faucibus fermentum.
@@ -18,39 +18,25 @@ Suspendisse malesuada pretium dui, ac lacinia mi pellentesque eu. Sed volutpat e
 
 ```{tip}
 Number one reason thing to take away from this is...
-```
+``` -->
 
 (grading_practices)=
 ### How will I be evaluated in this course?
 
 The grading scheme for this course is here:
 
-| Item                  | Weight          | Due date(s) |
-|-----------------------|-----------------|-------------|
-| Homework Assignments  | 25% (10 x 2.5%) | TBD         |
-| Labs                  | 25% (10 x 2.5%) | TBD         |
-| Tests (& Bonus Tests) | 25% (5 x 5%)    | TBD         |
-| Learning Logs         | 5% (10 x 0.5%)  | TBD         |
-| Final Exam            | 20%             | TBD         |
-
-There will be 5 tests in this course in an (approximately) bi-weekly schedule.
-For each of the tests, there will be a bonus test exactly one week later and the better score of the Test-Bonus Test pair will be taken.
+| Item     | Weight          | Due date(s) |
+|----------|-----------------|-------------|
+| Labs     | 50% (4 x 6.25%) | Thursdays at 18:00         |
+| Project 1  | 25%   | February 4 at 18:00      |
+| Project 2  | 25%   | February 11 at 18:00        |
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
 Any submissions submitted past the grace period will not be graded (with some exceptions).
 ```
 
-### What are the passing requirements for this course?
-
-- All students must satisfy ALL conditions to pass the course:
-    1. Pass the Lab component with a grade of at least 50%,
-    1. Pass the Test and Exam components (together) with a grade of at least 50%,
-    1. Pass the Final Exam with a grade of at least 40%.
-
-If students do not satisfy the appropriate requirements, the student will be assigned the **lower** of their earned course grade or, a maximum overall grade of 45 in the course.
-
-### What are the Course Learning Outcomes?
+<!-- ### What are the Course Learning Outcomes?
 
 1. Pellentesque pellentesque ut arcu vel sagittis.
 1. Sed faucibus at ipsum pharetra euismod.
@@ -62,8 +48,10 @@ If students do not satisfy the appropriate requirements, the student will be ass
 The full course schedule is available here: {ref}`page_Course_Schedule`
 
 and [here](./course_schedule.md)
-```
-### What do I need to purchase for this course?
+``` 
+-->
+
+<!-- ### What do I need to purchase for this course?
 
 The following are required items for this course, and their costs (in $CAD) are:
 
@@ -124,4 +112,4 @@ The required lab manual for this course is: Available on Canvas, free of charge.
 ```
 
 In the past, this lab manual had to be purchased from the UBC Bookstore.
-This year, because the labs are all online, a digital version of the lab manual is available to you on Canvas free of charge. 
+This year, because the labs are all online, a digital version of the lab manual is available to you on Canvas free of charge.  -->

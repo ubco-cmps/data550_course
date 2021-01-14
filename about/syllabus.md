@@ -9,6 +9,22 @@ This is the official syllabus and course outline for {{ COURSE_CODE }}.
 ```{warning} Please note that this syllabus is currently under active development, there may be typos or missing sections; treat this as a draft until the course starts!
 ```
 
+(grading_practices)=
+### How will I be evaluated in this course?
+
+The grading scheme for this course is here:
+
+| Item      | Weight          | Due date(s)          |
+|-----------|-----------------|----------------------|
+| Labs      | 50% (4 x 6.25%) | Thursdays at 18:00   |
+| Project 1 | 25%             | February 4 at 18:00  |
+| Project 2 | 25%             | February 11 at 18:00 |
+
+```{attention} 
+All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
+Any submissions submitted past the grace period will not be graded (with some exceptions).
+```
+
 ```{include} syllabus_bits/syllabus_01_highlights.md
 ```
 
@@ -38,11 +54,3 @@ This is the official syllabus and course outline for {{ COURSE_CODE }}.
 
 ```{include} syllabus_bits/syllabus_10_references.md
 ``` -->
-
-```{figure} ../images/construction.jpeg
----
-width: 750px
-name: Under Construction.
----
-This course website is currently under construction. It will continue to be updated and will be released closer to the course start date. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
-```
