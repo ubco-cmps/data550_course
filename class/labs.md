@@ -8,10 +8,10 @@ Once the lab is ready for you to accept, click the below to accept the lab:
 
 | Lab     | Due Date      | Link to Accept                              | Solutions                        |
 |---------|---------------|---------------------------------------------|----------------------------------|
-| Lab 1 - | Date at 18:00 | [Accept Lab]() |                                  |
-| Lab 2 - | Date at 18:00 | [Accept Lab]() |  |
-| Lab 3 - | Date at 18:00 | [Accept Lab]() |                                  |
-| Lab 4 - | Date at 18:00 | [Accept Lab]() |                                  |                           |
+| Lab 1 | Date at Thursday Jan 21 at 18:00 | [Accept Lab](https://classroom.github.com/g/zTFF078l) |                                  |
+| Lab 2 | Date at 18:00 | [Accept Lab]() |  |
+| Lab 3 | Date at 18:00 | [Accept Lab]() |                                  |
+| Lab 4 | Date at 18:00 | [Accept Lab]() |                                  |                           |
 
 Once you click the link, a repository will automatically be created for you with some starter code.
 You can now work on the lab, make commits, and push them to GitHub as you please. 
