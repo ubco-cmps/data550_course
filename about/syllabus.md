@@ -16,7 +16,7 @@ The grading scheme for this course is here:
 
 | Item      | Weight          | Due date(s)          |
 |-----------|-----------------|----------------------|
-| Labs      | 50% (4 x 6.25%) | Thursdays at 18:00   |
+| Labs      | 50% (4 x 12.5%) | Thursdays at 18:00   |
 | Project 1 | 25%             | February 4 at 18:00  |
 | Project 2 | 25%             | February 11 at 18:00 |
 
