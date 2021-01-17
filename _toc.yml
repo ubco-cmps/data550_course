@@ -27,7 +27,15 @@
   chapters:
     - file: class/labs
       title: Accept the Labs
-
+      sections:
+        - file: class/ggplot_practice
+          title: ggplot2 Practice 1
+        - file: class/ggplot_practice2
+          title: ggplot2 Practice 2
+        - file: class/altair_practice
+          title: Altair Practice 1
+        - file: class/altair_practice2
+          title: Altair Practice 2
 - part: Course Feedback
   chapters:
     - file: about/feedback
