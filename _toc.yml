@@ -10,8 +10,8 @@
       title: Lecture 1
     - file: class/Lecture2
       title: Lecture 2
-    # - file: class/Lecture3
-    #   title: Lecture 3
+    - file: class/Lecture3
+      title: Lecture 3
     # - file: class/Lecture4
     #   title: Lecture 4
     # - file: class/Lecture5
