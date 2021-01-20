@@ -36,6 +36,11 @@
           title: Altair Practice 1
         - file: class/altair_practice2
           title: Altair Practice 2
+
+- part: Mini Projects
+  chapters:
+    - file: class/project1
+      title: Mini Project 1
 - part: Course Feedback
   chapters:
     - file: about/feedback
