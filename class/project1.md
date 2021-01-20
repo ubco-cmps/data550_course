@@ -24,21 +24,21 @@ Here are the instructions for your project:
 
 Requirements for the EDA:
 
-	- Must include all eight steps of the EDA (Describe your dataset, Load the dataset, Explore your dataset, Initial thoughts, Wrangling, Research Questions, Data analysis & visualizations, Summary and conclusions)
+- Must include all eight steps of the EDA (Describe your dataset, Load the dataset, Explore your dataset, Initial thoughts, Wrangling, Research Questions, Data analysis & visualizations, Summary and conclusions)
 
-	- Must include at least 3 visualizations, and no more than 6
+- Must include at least 3 visualizations, and no more than 6
 
-	- Each visualization must adhere to the principles of effective visualizations as discussed in Lecture 4 and 5.
+- Each visualization must adhere to the principles of effective visualizations as discussed in Lecture 4 and 5.
 
-	- Comments on your EDA must be authentic and genuine, ideally in full sentences.
+- Comments on your EDA must be authentic and genuine, ideally in full sentences.
 
 1. Once you have done an EDA, you should come up with two follow-up research questions. (10 marks)
 
 Each research question should fulfill ONE of these two criteria:
 
-	A) RQ should be answerable with this dataset but requires additional data processing or wrangling that is outside the scope of this mini-project; OR
+A) RQ should be answerable with this dataset but requires additional data processing or wrangling that is outside the scope of this mini-project; OR
 
-	B) RQ cannot be answerable with this dataset and requires another dataset. If you choose this criteria, make sure to describe what this hypothetical data would include (provide the column names at minimum).
+B) RQ cannot be answerable with this dataset and requires another dataset. If you choose this criteria, make sure to describe what this hypothetical data would include (provide the column names at minimum).
 
 Note: you do NOT need to answer the research questions! In this task we will only evaluate your ability to create research questions.
 
