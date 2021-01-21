@@ -17,10 +17,9 @@ Here are the instructions for your project:
 
 | Group Number | Dataset |
 | ------------ | ------- |
-|  | |
-|  | |
-|  | |
-|  | |
+| Groups 1 - 5 | [Penguins](https://pypi.org/project/palmerpenguins/#description) |
+| Groups 6 - 10 | [Default of credit card](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) |
+| Groups 11 - 15 | [Medical expenses](https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41) |
 
 Requirements for the EDA:
 
@@ -50,7 +49,3 @@ I want to hear the results of the analysis from you.
 Keep it low-tech, I suggest you and your partner get on a zoom call, share your screen with the Jupyter notebook, describe the analysis, and record the call. 
 
 1. Edit the contributions.md file to your repository to outline the contributions of each partner in the group. (20 marks)
-
-
-
-
