@@ -41,11 +41,12 @@ B) RQ cannot be answerable with this dataset and requires another dataset. If yo
 
 Note: you do NOT need to answer the research questions! In this task we will only evaluate your ability to create research questions.
 
-1. Present and record the results of your EDA as a video. (20 marks)
+1. Present and record the results of your EDA as a 5-min video. (20 marks)
 
 Important: I am not expecting any video-editing, fancy equipment, or even a slide presentation. 
-I want to hear the results of the analysis from you.
+I want to hear the results of the analysis from you in fewer than five minutes (!).
 
 Keep it low-tech, I suggest you and your partner get on a zoom call, share your screen with the Jupyter notebook, describe the analysis, and record the call. 
+I should hear from both of you in the presentation, but it's up to you whether you show both the R and python plots, or just have one notebook.
 
 1. Edit the contributions.md file to your repository to outline the contributions of each partner in the group. (20 marks)
