@@ -63,7 +63,7 @@ B) RQ cannot be answerable with this dataset and requires another dataset. If yo
 
 Note: you do NOT need to answer the research questions! In this task we will only evaluate your ability to create research questions.
 
-1. Present and record the results of your EDA as a 5-min video. (20 marks)
+1. Present and record the results of your EDA as a 5-min video (We really mean it this time about the 5 min video! That's in total!!). (20 marks)
 
 Important: I am not expecting any video-editing, fancy equipment, or even a slide presentation. 
 I want to hear the results of the analysis from you in fewer than five minutes (!).
