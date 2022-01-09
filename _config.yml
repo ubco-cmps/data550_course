@@ -35,7 +35,7 @@ launch_buttons:
 repository: 
   url          : https://github.com/ubco-cmps/data550_course
   path_to_book : ""
-  branch       : master
+  branch       : main
 
 sphinx:
   extra_extensions:
@@ -74,6 +74,3 @@ sphinx:
       COURSE_LINK: "https://firas.moosvi.com/courses/data550"
       FORUM_LINK: Slack
       ANALYTICS_OPTOUT: "email your instructor."
-
-parse:
-  myst_extended_syntax: true
