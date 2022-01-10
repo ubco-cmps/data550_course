@@ -4,7 +4,7 @@ parts:
 - caption: About this course
   chapters:
   - file: about/syllabus_bits/course_schedule
-    title: Course Schedule and Learning Outcomes
+    title: Course Schedule and Learning Intentions
   - file: about/accommodations
 - caption: Lectures
   chapters:
