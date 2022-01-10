@@ -6,6 +6,12 @@ parts:
   - file: about/syllabus_bits/course_schedule
     title: Course Schedule and Learning Intentions
   - file: about/accommodations
+- caption: Visualization Libraries
+  chapters:
+  - file: class/altair_talk/Lecture
+    title: Introduction to Altair
+  - url: https://pkg.garrickadenbuie.com/gentle-ggplot2/#1
+    title: Introduction to ggplot2
 - caption: Lectures
   chapters:
   - file: class/Lecture1
