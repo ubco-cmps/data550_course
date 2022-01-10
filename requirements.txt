@@ -7,3 +7,4 @@ altair
 pandas
 linkify-it-py
 vega_datasets
+altair_data_server
