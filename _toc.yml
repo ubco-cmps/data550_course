@@ -1,9 +1,11 @@
 format: jb-book
 root: about/syllabus
 parts:
-- caption: Syllabus
+- caption: About this course
   chapters:
-  - file: about/syllabus2
+  - file: about/syllabus_bits/course_schedule
+    title: Course Schedule and Learning Outcomes
+  - file: about/accommodations
 - caption: Lectures
   chapters:
   - file: class/Lecture1
