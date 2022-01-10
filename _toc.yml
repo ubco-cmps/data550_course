@@ -10,7 +10,7 @@ parts:
   chapters:
   - file: class/altair_talk/Lecture
     title: Introduction to Altair
-  - url: https://pkg.garrickadenbuie.com/gentle-ggplot2/#1
+  - url: https://pkg.garrickadenbuie.com/gentle-ggplot2
     title: Introduction to ggplot2
 - caption: Lectures
   chapters:
