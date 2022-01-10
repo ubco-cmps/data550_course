@@ -1,6 +1,6 @@
 **{{ COURSE_CODE }} ({{ CREDITS }}) {{ TITLE }}**
 
-The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?code=cosc) of this course is: 
+The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?code=data) of this course is: 
 
 > Data visualization to produce graphs and images. 
 > Advanced data analysis on spreadsheets. 
