@@ -18,7 +18,7 @@ Here are the instructions for your project:
 | Group Number  | Dataset                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------|
 | Groups 1 - 8  | [Default of credit card](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) |
-| Groups 9 - 16 | [Medical expenses](https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41)       |
+| Groups 9 - 15 | [Medical expenses](https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41)       |
 
 Requirements for the EDA:
 
