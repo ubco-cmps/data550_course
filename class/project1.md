@@ -9,17 +9,16 @@ In the second project, you will use the other programming language and will be f
 
 Here are the instructions for your project:
 
-1. Do this mini-project in the same pairs you have selected for your labs. Take note of your group number (from Canvas) and follow all instructions in this section. (5 points)
+1. Do this mini-project in the same pairs you have selected for your labs. Take note of your group number (from Canvas) and follow all instructions in this section.
 
-1. Choose a programming language, R or python. If you select R, you must use ggplot2 for your plotting framework and if you choose python, you must use Altair for your plotting framework. (5 points)
+1. Choose a programming language, R or python. If you select R, you must use ggplot2 for your plotting framework and if you choose python, you must use Altair for your plotting framework.
 
-1. For your assigned dataset, you should first do a full and detailed Exploratory Data Analysis (see Lecture 3) in a Jupyter notebook. (40 points)
+1. For your assigned dataset, you should first do a full and detailed Exploratory Data Analysis (see Lecture 3) in a Jupyter notebook.
 
-| Group Number | Dataset |
-| ------------ | ------- |
-| Groups 1 - 5 | [Penguins](https://pypi.org/project/palmerpenguins/#description) |
-| Groups 6 - 10 | [Default of credit card](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) |
-| Groups 11 - 15 | [Medical expenses](https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41) |
+| Group Number  | Dataset                                                                                          |
+|---------------|--------------------------------------------------------------------------------------------------|
+| Groups 1 - 8  | [Default of credit card](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) |
+| Groups 9 - 16 | [Medical expenses](https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41)       |
 
 Requirements for the EDA:
 
@@ -41,7 +40,7 @@ B) RQ cannot be answerable with this dataset and requires another dataset. If yo
 
 Note: you do NOT need to answer the research questions! In this task we will only evaluate your ability to create research questions.
 
-1. Present and record the results of your EDA as a 5-min video. (20 marks)
+1. Present and record the results of your EDA as a 5-min video.
 
 Important: I am not expecting any video-editing, fancy equipment, or even a slide presentation. 
 I want to hear the results of the analysis from you in fewer than five minutes (!).
@@ -49,4 +48,4 @@ I want to hear the results of the analysis from you in fewer than five minutes (
 Keep it low-tech, I suggest you and your partner get on a zoom call, share your screen with the Jupyter notebook, describe the analysis, and record the call. 
 I should hear from both of you in the presentation, but it's up to you whether you show both the R and python plots, or just have one notebook.
 
-1. Edit the contributions.md file to your repository to outline the contributions of each partner in the group. (20 marks)
+1. Edit the contributions.md file to your repository to outline the contributions of each partner in the group.

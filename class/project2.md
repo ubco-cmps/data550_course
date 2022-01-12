@@ -41,7 +41,7 @@ There are literally thousands of datasets available, I will point you to some hi
 - [data.world](https://data.world/) (requires free account)
 - [kaggle](https://www.kaggle.com/datasets?license=cc)
 
-**IMPORTANT: I strongly suggest you spend a bit of effort choosing a good dataset and interesting research questions as these mini-projects will likely be the basis of your DATA 551 and 552 project next block!**
+**IMPORTANT: I strongly suggest you spend a bit of effort choosing a good dataset and interesting research questions as these mini-projects will likely be the basis of your DATA 551 project next block!**
 
 Requirements for the EDA:
 
@@ -63,7 +63,7 @@ B) RQ cannot be answerable with this dataset and requires another dataset. If yo
 
 Note: you do NOT need to answer the research questions! In this task we will only evaluate your ability to create research questions.
 
-1. Present and record the results of your EDA as a 5-min video (We really mean it this time about the 5 min video! That's in total!!). (20 marks)
+1. Present and record the results of your EDA as a 5-min video (We really mean it this time about the 5 min video! That's in total!!).
 
 Important: I am not expecting any video-editing, fancy equipment, or even a slide presentation. 
 I want to hear the results of the analysis from you in fewer than five minutes (!).
@@ -71,4 +71,4 @@ I want to hear the results of the analysis from you in fewer than five minutes (
 Keep it low-tech, I suggest you and your partner get on a zoom call, share your screen with the Jupyter notebook, describe the analysis, and record the call. 
 I should hear from both of you in the presentation, but it's up to you whether you show both the R and python plots, or just have one notebook.
 
-1. Edit the contributions.md file to your repository to outline the contributions of each partner in the group. (20 marks)
+1. Edit the contributions.md file to your repository to outline the contributions of each partner in the group.
