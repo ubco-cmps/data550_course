@@ -41,6 +41,12 @@ There are literally thousands of datasets available, I will point you to some hi
 - [data.world](https://data.world/) (requires free account)
 - [kaggle](https://www.kaggle.com/datasets?license=cc)
 
+These datasets are FORBIDDEN (because I am sick of seeing them :-))
+
+- wine dataset
+- pokemon
+- airbnb
+
 **IMPORTANT: I strongly suggest you spend a bit of effort choosing a good dataset and interesting research questions as these mini-projects will likely be the basis of your DATA 551 project next block!**
 
 Requirements for the EDA:
