@@ -2,18 +2,18 @@
 Course Schedule
 =======================
 
-| Class # | Date                 | Course Topics                                           | Format                |
-|---------|----------------------|---------------------------------------------------------|-----------------------|
-| 1       | Monday January 10    | Introduction to Data Visualization                      | Live Class (via Zoom) |
-| 2       | Wednesday January 12 | Importance of Data Visualizations                       | Live Class (via Zoom) |
-| 3       | Monday January 17    | Visual encodings and plot configuration                 | Live Class (via Zoom) |
-| 4       | Wednesday January 19 | Visualizing distributions fairly                        | Live Class (via Zoom) |
-| ~~5~~   | Monday January 24    | No Class                                                | N/A                   |
-| ~~6~~   | Wednesday January 26 | No Class                                                | N/A                   |
-| 5       | Monday January 31    | Principles of Effective Visualizations                  | Live Class (via Zoom) |
-| 6       | Wednesday February 2 | Colours                                                 | Live Class (via Zoom) |
-| 7       | Monday February 7    | Trendlines, confidence intervals, and composite figures | Live Class (via Zoom) |
-| 8       | Wednesday February 9 | Seaborn Tutorial                                        | Recorded Video        |
+| Class #            | Date                 | Course Topics                                           | Format                |
+|--------------------|----------------------|---------------------------------------------------------|-----------------------|
+| 1                  | Monday January 10    | Introduction to Data Visualization                      | Live Class (via Zoom) |
+| 2                  | Wednesday January 12 | Importance of Data Visualizations                       | Live Class (via Zoom) |
+| 3                  | Monday January 17    | Visual encodings and plot configuration                 | Live Class (via Zoom) |
+| 4                  | Wednesday January 19 | Visualizing distributions fairly                        | Live Class (via Zoom) |
+| <strike>5</strike> | Monday January 24    | No Class                                                | N/A                   |
+| <strike>6</strike> | Wednesday January 26 | No Class                                                | N/A                   |
+| 5                  | Monday January 31    | Principles of Effective Visualizations                  | Live Class (via Zoom) |
+| 6                  | Wednesday February 2 | Trendlines, confidence intervals, and composite figures | Live Class (via Zoom) |
+| 7                  | Monday February 7    | Seaborn Tutorial (Recorded Video)                       | Live Q&A (via Zoom)   |
+| 8                  | Wednesday February 9 | Q&A on Zoom                                             | Live Q&A (via Zoom)   |
 
 ## Learning Intentions
 
