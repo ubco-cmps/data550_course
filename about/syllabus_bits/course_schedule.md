@@ -12,7 +12,7 @@ Course Schedule
 | <strike>6</strike> | Wednesday January 26 | No Class                                                | N/A                   |
 | 5                  | Monday January 31    | Principles of Effective Visualizations                  | Live Class (via Zoom) |
 | 6                  | Wednesday February 2 | Trendlines, confidence intervals, and composite figures | Live Class (via Zoom) |
-| 7                  | Monday February 7    | Seaborn Tutorial (Recorded Video)                       | Live Q&A (via Zoom)   |
+| 7                  | Monday February 7    | Seaborn Tutorial (Recorded Video)                       | N/A                   |
 | 8                  | Wednesday February 9 | Q&A on Zoom                                             | Live Q&A (via Zoom)   |
 
 ## Learning Intentions
